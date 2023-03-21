@@ -2,4 +2,7 @@
   <head>
   <tittle> create webpage </tittle>
   </head>
+  <body bgcolor="red">
+  <p> hello nramp </p>
+  </body>
   </html>
